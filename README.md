@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Andriod development,web development**
 
-- 👯 I’m looking to collaborate on **IOT projects**
+- 👯 I’m looking to collaborate on **IOT Projects,Android Application Developments Projects,Web Development Projects**
 
 - 📫 How to reach me **ajmal08786@gmail.com**
 
