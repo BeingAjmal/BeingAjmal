@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajmal khan</h1>
-<h3 align="center">I am self motivated Electronics and communication engineering student,Tech enthusiast,Always believe team work is the key to success.per from India</h3>
+<h3 align="center">I am self motivated Electronics and communication engineering student,Tech enthusiast,AI Enthausiast,Always believe team work is the key to success.per from India</h3>
 
 - 🔭 I’m currently working on **IOT(internet of things),Andriod development**
 
